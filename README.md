@@ -4,6 +4,7 @@
 
 - [x] Make it deploy (vercel)
 - [x] Scaffold badic UI with mock data
+- [x] Tidy up build process
 - [ ] Setup database (vercel postgres)
 - [ ] Attach db to UI
 - [ ] Add auth (with clerk)
