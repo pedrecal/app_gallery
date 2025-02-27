@@ -2,8 +2,8 @@
 
 ## TODO
 
-- [ ] Make it deploy (vercel)
-- [ ] Scaffold badic UI with mock data
+- [x] Make it deploy (vercel)
+- [x] Scaffold badic UI with mock data
 - [ ] Setup database (vercel postgres)
 - [ ] Attach db to UI
 - [ ] Add auth (with clerk)
