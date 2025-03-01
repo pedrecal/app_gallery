@@ -6,9 +6,10 @@
 - [x] Scaffold badic UI with mock data
 - [x] Tidy up build process
 - [x] Setup database (vercel postgres)
-- [ ] Attach db to UI
-- [ ] Add auth (with clerk)
-- [ ] Add image upload
+- [x] Attach db to UI
+- [x] Add auth (with clerk)
+- [x] Add image upload
+- [ ] Associate user to image
 - [ ] Error management (with sentry)
 - [ ] Routing/image page (parallel route)
 - [ ] Delete button (with Server Actions)
